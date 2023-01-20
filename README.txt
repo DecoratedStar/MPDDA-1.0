@@ -63,6 +63,7 @@ E). To create different shape nanoparticles with nanocubic voxels, open the Targ
 
 %==============================================================================================================================================================================%
 
-                                   
+18) E_field_Enhancement_slice.m: simulates the electric field enhancement around plasmonic nanostructures and plots its colored three faces through the origin.
+                            
  
 
